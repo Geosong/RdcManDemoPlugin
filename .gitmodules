@@ -1,0 +1,3 @@
+[submodule "RdcManPluginFix"]
+	path = RdcManPluginFix
+	url = git@github.com:Geosong/RdcManPluginFix.git

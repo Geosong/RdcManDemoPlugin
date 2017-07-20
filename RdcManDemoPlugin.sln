@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdcManDemoPlugin", "RdcManDemoPlugin\RdcManDemoPlugin.csproj", "{FE37A225-EE25-4354-B2A5-4AE96E91F03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdcManPluginFix", "RdcManPluginFix\RdcManPluginFix.csproj", "{9107772D-4A92-4569-9025-CE31BB31669D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE37A225-EE25-4354-B2A5-4AE96E91F03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE37A225-EE25-4354-B2A5-4AE96E91F03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE37A225-EE25-4354-B2A5-4AE96E91F03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE37A225-EE25-4354-B2A5-4AE96E91F03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9107772D-4A92-4569-9025-CE31BB31669D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9107772D-4A92-4569-9025-CE31BB31669D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9107772D-4A92-4569-9025-CE31BB31669D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9107772D-4A92-4569-9025-CE31BB31669D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
